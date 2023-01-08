@@ -4,5 +4,6 @@ Addon Generator is an app that allows users to easily create Chrome extensions, 
 all you need its open the output folder the name of app+ verison and open chrome://extensions/ click load unpacked extension selsct the output folder
 ### share with me ur project
 you can send me in my mail the cool addon you do with the app 
+
 and if need some quesiton im here (: 
 mailto:liad07@gmail.com 
