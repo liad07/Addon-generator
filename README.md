@@ -8,10 +8,9 @@ Addon Generator is an app that allows users to easily create Chrome extensions, 
 5) Select the output folder.
 
 ### share with me ur project
-you can send me in my mail the cool addon you do with the app 
-
-and if need some quesiton im here (: 
-mailto:liad07@gmail.com 
+Please share your project with me.
+Feel free to send the cool add-on you made for the app to my email at liad07@gmail.com.
+If you have any questions, don't hesitate to ask. :)"
 
 
 <img src="https://raw.githubusercontent.com/liad07/Addon-generator/main/logo.ico" width=100 height=100></img>
